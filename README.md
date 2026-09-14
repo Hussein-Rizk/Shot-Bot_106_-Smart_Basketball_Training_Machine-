@@ -244,31 +244,7 @@ The project presentation links Shot-Bot 106 to several UN Sustainable Developmen
 - **SDG 10** — Reduced Inequalities
 - **SDG 17** — Partnerships for the Goals
 
----
 
-## 📂 Repository Structure
-
-```text
-Shot-Bot-106/
-│
-├── README.md
-├── Shot-Bot 106.pdf
-├── Shot_Bot.png
-│
-├── Solidworks/
-│   ├── base shot.SLDPRT
-│   ├── Base Shot__1.SLDPRT
-│   ├── circular plate.SLDPRT
-│   ├── shaft(1).SLDPRT
-│   ├── upper shot.SLDPRT
-│   └── shot bot assembly.SLDASM
-│
-└── STEP/
-    ├── base shot.STEP
-    ├── circular plate.STEP
-    ├── shaft.STEP
-    └── upper shot.STEP
-```
 
 ---
 
